@@ -21,7 +21,7 @@ A more detailed outline is shown below:
 ## Performance Results 
 Testing results obtained by traditional ML models and LLMs: 
 
-Six machine learning approaches were applied to the data. We measured their respective effectiveness in predicting whether a given product was Energy Star or TCO certified, allowing for prediction of outcomes with future products. Below are the six models’ performance on the respective 500-sample testing sets for Energy Star: 
+Six machine learning approaches were applied to the data. We measured their respective effectiveness in predicting whether a given product was Energy Star or TCO certified, allowing for prediction of outcomes with future products. The code can be found [here](https://github.com/sofialaval/Recommendation-System/blob/main/Models.ipynb). Below are the six models’ performance on the respective 500-sample testing sets for Energy Star: 
 
 <p align="center">
   <img src=https://github.com/sofialaval/Recommendation-System/assets/159965979/e7a90ccb-3020-4d90-8feb-db2d166208f8>
