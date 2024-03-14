@@ -28,8 +28,16 @@ Six machine learning approaches were applied to the data. We measured their resp
 </p>
 
 <p align="center">
+  <img src=https://github.com/sofialaval/Recommendation-System/assets/159965979/aa8bac18-1925-4641-89d3-f94b62276a82>
+</p>
+
+and GPT-3.5 on the same data set: 
+
+<p align="center">
   <img src=https://github.com/sofialaval/Recommendation-System/assets/159965979/03f8e73a-cafc-4551-904b-1eded76434ec>
 </p>
+
+
 
 Further analysis is needed to understand whether the observed exceptional performance of the ML models can be generalized to other products, or if it is a result of our specific methodology and dataset. Continued approaches could include alternative forms of imputation, cross-validation, variable selection, more balanced data, integration of additional data resources, up to date status on current product Ecolabel certifications, and other machine learning algorithms. Many ML algorithms lack clarity around the reason for classification and often require extensive data cleaning. 
 
