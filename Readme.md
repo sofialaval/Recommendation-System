@@ -11,12 +11,12 @@ Given IT product and certification data, we utilized Natural Language Processing
   <img src=https://github.com/sofialaval/Kaggle_Competition-Prediction_of_Obesity_Risk/assets/159965979/12676a6c-2898-428c-940c-d502ee74d0d7>
 </p>
 
-![Screen Shot 2024-03-14 at 2 55 25 PM](https://github.com/sofialaval/Kaggle_Competition-Prediction_of_Obesity_Risk/assets/159965979/12676a6c-2898-428c-940c-d502ee74d0d7)
-
 
 A more detailed outline is shown below:     
 
-![Screen Shot 2024-03-14 at 2 58 16 PM](https://github.com/sofialaval/Kaggle_Competition-Prediction_of_Obesity_Risk/assets/159965979/77b5ea03-db79-4eec-ab6f-b93777dce48a)
+<p align="center">
+  <img src=https://github.com/sofialaval/Kaggle_Competition-Prediction_of_Obesity_Risk/assets/159965979/77b5ea03-db79-4eec-ab6f-b93777dce48a>
+</p>
 
 ## Performance Results 
 Testing results obtained by traditional ML models and LLMs: 
