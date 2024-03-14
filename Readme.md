@@ -43,8 +43,13 @@ Further analysis is needed to understand whether the observed exceptional perfor
 
 Even though the performance was not as high for the LLM, they demonstratetheir capability to calculate metrics accurately and provide transparent conclusions. For example, consider the following Energy Star mandate with an IT product "E15": 
 
-![Screen Shot 2024-03-14 at 3 41 18 PM](https://github.com/sofialaval/Recommendation-System/assets/159965979/fc26ba42-fda1-41f5-8cde-b616316e35f3)
-![Screen Shot 2024-03-14 at 3 41 37 PM](https://github.com/sofialaval/Recommendation-System/assets/159965979/3b629e06-2747-4682-a5cc-de27ae1c58b8)
+<p align="center">
+  <img src=https://github.com/sofialaval/Recommendation-System/assets/159965979/fc26ba42-fda1-41f5-8cde-b616316e35f3>
+</p>
+
+<p align="center">
+  <img src=https://github.com/sofialaval/Recommendation-System/assets/159965979/3b629e06-2747-4682-a5cc-de27ae1c58b8>
+</p>
 
 As expected, GPT is not able to come to any definitive assessment for this mandate. To improve the effectiveness of the LLM assessments, the user should be able to provide additional data and information about the products as necessary. Another improvement to the LLM process would be using “few shot learning,” a method where model accuracy improves by including a small number of examples per class. In our process, we queried the LLMs using product data without providing examples of compliant products with which to compare. This is called “zero shot learning” and can cause the uncertainty observed in the LLM responses. With these improvements implemented, we believe that LLMs can be an excellent tool for aiding in the ESG
 certification process. It should be noted that while the ML algorithms performed incredibly well on the product dataset, most enterprises do not have the luxury of 100k+ labeled datapoints to train.
